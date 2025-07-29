@@ -1,0 +1,45 @@
+header{
+    background-color : #D3AEEB;
+    color : white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30 px;
+    border-bottom: 1px ;
+
+}
+
+.titre{
+display: flex;
+align-items: center;
+padding : 5px;
+gap : 10px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding : 5px;
+    gap : 30px;
+    font-weight: bold;
+    
+}
+.navbar a {
+    text-decoration: none;
+    color : white;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  h2 {
+    color: #D3AEEB;
+  }
+
+img{
+width : 100px;
+height:70px;
+  }
